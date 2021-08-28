@@ -17,11 +17,11 @@
       "Personnage": "Walter Nelson (voix)"
     }
   ],
-  "Titre": "Fight Club",
-  "directeur": "David Fincher",
-  "Auteur": "Chuck Palahniuk,",
-  "Date": 1999,
-  "Vedette": [
+  "Titre2": "Fight Club",
+  "directeur2": "David Fincher",
+  "Auteur2": "Chuck Palahniuk,",
+  "Date2": 1999,
+  "Vedette2": [
     {
       "Nom": "Brad Pitt",
       "Personnage": "Tyler Durden"
@@ -31,7 +31,7 @@
       "Personnage": "The Narrator"
     },
     {
-      "Nom": "MEat Loaf",
+      "Nom": "Meat Loaf",
       "Personnage": "Robert 'Bob' Paulsen "
     }
   ]
